@@ -18,7 +18,7 @@ from mediapipe.tasks import python as mp_python
 from mediapipe.tasks.python import vision
 
 # ================= Configuration =================
-MODEL_PATH = "hand_landmarker.task"
+MODEL_PATH = "/Users/dong/Desktop/rock_paper_scissors/team2/手部检测/task/hand_landmarker.task"
 TEMPLATE_FILE = "gesture_templates.json"
 CSV_FILE = "rehab_records.csv"
 HISTORY_PNG = "completion_history.png"
