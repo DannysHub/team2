@@ -1,0 +1,5 @@
+Time,Round,PlayerGesture,OpponentGesture,Result,Total,Shape,Open,Score,Wins,Losses,Draws
+2025-07-19 18:12:40,1,rock,rock,Draw,22.03,0.00,45.30,0,0,0,1
+2025-07-19 18:12:52,2,scissors,scissors,Draw,,,,0,0,0,2
+2025-07-19 18:13:04,3,rock,scissors,You Win!,22.02,0.00,44.82,3,1,0,2
+2025-07-19 18:13:46,4,paper,rock,You Win!,34.85,7.06,100.00,6,2,0,2
